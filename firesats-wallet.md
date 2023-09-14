@@ -6,11 +6,7 @@ Thank you for choosing FireSats Wallet ("we", "us", or "our") as your custodial 
 
 We may collect certain information about you when you use our App. This information may include:
 
-Personal Information: To provide our services, we may collect your email address, BSV wallet address, and transaction-related data.
-
-Device Information: We may collect information about the device you use to access the App, including the device's unique identifier, operating system, and mobile network information.
-
-Usage Information: We may collect information about how you use the App, including your interaction with the App's features, preferences, and settings.
+Financial Information: To provide you with your transaction history, we may collect your wallet's transaction Ids.
 
 ###  How We Use Your Information
 
@@ -42,7 +38,7 @@ We take reasonable measures to protect your personal information from unauthoriz
 
 Children's Privacy
 
-The App is not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13 years of age.
+The App is not intended for use by individuals under the age of 17. We do not knowingly collect personal information from children under 17 years of age.
 
 ### Changes to this Privacy Policy
 
@@ -54,4 +50,4 @@ If you have any questions about this Privacy Policy, please contact us at [art3f
 
 By using the FireSats Wallet App, you acknowledge that you have read and understood this Privacy Policy and agree to its terms and conditions.
 
-This Privacy Policy was last updated on  17.08.2023
+This Privacy Policy was last updated on  14.09.2023
