@@ -1,6 +1,6 @@
 Effective Date: 17.08.2023
 
-Thank you for choosing FireSats Wallet ("we", "us", or "our") as your custodial Bitcoin SV (BSV) wallet application. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information in relation to the FireSats Wallet mobile application (the "App"). By using the App, you consent to the practices described in this Privacy Policy.
+Thank you for choosing FireSat Wallet ("we", "us", or "our") as your custodial Bitcoin SV (BSV) wallet application. This Privacy Policy outlines how we collect, use, disclose, and safeguard your personal information in relation to the FireSat Wallet mobile application (the "App"). By using the App, you consent to the practices described in this Privacy Policy.
 
 ### Information We Collect
 
@@ -48,6 +48,6 @@ We may update this Privacy Policy from time to time to reflect changes to our pr
 
 If you have any questions about this Privacy Policy, please contact us at [art3ficerx@gmail.com].
 
-By using the FireSats Wallet App, you acknowledge that you have read and understood this Privacy Policy and agree to its terms and conditions.
+By using the FireSat Wallet App, you acknowledge that you have read and understood this Privacy Policy and agree to its terms and conditions.
 
 This Privacy Policy was last updated on  14.09.2023
