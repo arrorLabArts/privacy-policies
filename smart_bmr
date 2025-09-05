@@ -1,0 +1,62 @@
+Privacy Policy for Smart BMR
+Last Updated: September 5, 2025
+
+Thank you for using Smart BMR ("the App"). This Privacy Policy explains how we collect, use, and handle your information when you use our mobile application. Your privacy is important to us, and we are committed to protecting it.
+
+1. Information We Collect
+Our App is designed to function primarily on your device. We collect the following types of information:
+
+a) Information You Provide Directly:
+
+Onboarding Data: When you set up the App, you provide personal data such as your age, gender, height, weight, activity level, and fitness goal (lose, maintain, or gain weight). This information is essential for calculating your Basal Metabolic Rate (BMR) and Total Daily Energy Expenditure (TDEE).
+
+Meal Information (Text & Images): You provide descriptions of meals or upload photos of your food to estimate calorie content.
+
+Feedback: You may voluntarily provide feedback, feature requests, or bug reports through the App.
+
+b) Information Stored Locally on Your Device:
+
+Your Profile: All the onboarding data you provide is stored locally on your device using SharedPreferences.
+
+Historical Meal & Daily Logs: To provide you with progress tracking, we store a history of your daily summaries (total intake, deficit/surplus) and individual meal entries in a local SQLite database on your device.
+
+Meal History: For your convenience, we store a list of your recent meal descriptions locally to provide suggestions.
+
+2. How We Use Your Information
+We use the information we collect for the following purposes:
+
+To Provide Core App Functionality: To calculate your BMR, TDEE, daily calorie goal, and track your progress against these metrics.
+
+To Provide AI-Powered Features: Your meal descriptions and/or photos are sent to Google's Gemini API to provide an estimated calorie count.
+
+To Personalize Your Experience: To send you relevant notifications based on your goals and daily progress (e.g., "Time to Refuel!", "Fat Burning Mode Activated!", end-of-day summaries).
+
+To Improve the App: Feedback you send is used to identify bugs, prioritize new features, and improve the overall user experience.
+
+3. Third-Party Services & Data Sharing
+We do not sell your personal data. We only share information with third-party services as necessary to provide the App's features:
+
+Google's Gemini API: When you request a calorie estimate from a text description or an image, that specific text or image is sent to Google's servers for processing. We do not send any other personal data along with this request. Your use of this feature is subject to Google's Privacy Policy.
+
+Supabase: When you voluntarily submit feedback, the text you provide is sent to and stored in our database hosted by Supabase. Your use of this feature is subject to Supabase's Privacy Policy.
+
+4. Data Storage and Security
+Local Storage: The majority of your sensitive personal and health data is stored exclusively on your device. We do not have access to this data. If you uninstall the App, this data is typically deleted by your mobile operating system.
+
+Cloud Storage: Only the feedback you choose to send is stored on a secure cloud database. We take reasonable measures to protect this information.
+
+5. Your Choices and Rights
+You can manage your data in the following ways:
+
+Review and Delete Meals: You can view and delete individual meal entries from the "Daily Intake" screen within the App.
+
+Reset Your Profile: You can clear all your profile and historical data and start over by using the "Recalculate Profile" feature in the Settings screen.
+
+Uninstall the App: Uninstalling the app will remove all locally stored data.
+
+6. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy within the App. You are advised to review this Privacy Policy periodically for any changes.
+
+7. Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+art3ficerx@gmail.com
